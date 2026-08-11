@@ -50,10 +50,10 @@ My main responsibilities included:
 
 ![CAD Assembly1](images/CAD/ITER1.png)
 ![CAD Assembly2](images/CAD/ensamble1.png)
+![CAD Assembly6](images/CAD/tail.png)
 ![CAD Assembly3](images/CAD/front_side_ass.png)
 ![CAD Assembly4](images/CAD/full_ass_half.png)
 ![CAD Assembly5](images/CAD/full_assembly.png)
-![CAD Assembly6](images/CAD/tail.png)
 
 ## Aerodynamic Analysis
 
@@ -74,6 +74,7 @@ The electronic and mechanical systems were integrated into the aircraft to enabl
 
 ### First Iteration + Failed Attempt
 [Failed Hover Attempt](https://youtube.com/shorts/JpqIHodHMZ8?feature=share)
+
 [Succesful Hover Attempt](https://youtube.com/shorts/xSvRWv3706E?feature=share)
 
 ### Transition Test
@@ -82,11 +83,11 @@ The electronic and mechanical systems were integrated into the aircraft to enabl
 ### Flight Test
 [Full Flight Test](https://youtube.com/shorts/zZnBUJUz46I?feature=share)
 
+This project was carried out by:
+ - Santiago Firacative Alarcón
+ - Gabriel David Ruiz Lubo
+ - Schneider Alejandro Torres
+ - Juan Pablo Rincón
+ - Samuel Jiménez Arroyave
 
-### Electronics
-
-![Electronics](images/electronics/internal_view.jpg)
-
-### Flight Testing
-
-![Flight Test](images/flight_testing/transition.jpg)
+Universidad de Antioquia, Aerospace Engineering, Colombia.
